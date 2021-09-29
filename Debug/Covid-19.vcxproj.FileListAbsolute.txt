@@ -1,0 +1,13 @@
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\Covid-19.vcxproj.CopyComplete
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\Covid-19.exe
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\libcrypto-1_1.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\libssl-1_1.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\sfml-graphics-d-2.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\sfml-window-d-2.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\sfml-system-d-2.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\freetyped.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\zlibd1.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\bz2d.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\libpng16d.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\brotlidec.dll
+C:\Users\Seikimaii\source\repos\Covid-19\Debug\brotlicommon.dll
